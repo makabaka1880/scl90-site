@@ -30,15 +30,13 @@ jobs:
         run: pnpm install; pnpm install better-sqlite3
 
       - name: Generate site
-        run: pnpm run generate
+        run: pnpm run build
     
-      - name: Debug
-        run: ls -la
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./.output/public
+          path: ./dist
 
   deploy:
     needs: build
