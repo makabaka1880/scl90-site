@@ -1,0 +1,69 @@
+// Primary Colors
+$color-primary: #1976d2;
+$color-primary-dark: #1565c0;
+$color-primary-light: #e3f2fd;
+
+// Severity Colors - Normal
+$color-normal: #4caf50;
+$color-normal-dark: #2e7d32;
+$color-normal-light: #c8e6c9;
+$color-normal-bg: #f5f5f5;
+
+// Severity Colors - Elevated
+$color-elevated: #ff9800;
+$color-elevated-dark: #ef6c00;
+$color-elevated-light: #ffe0b2;
+$color-elevated-bg: #fff3e0;
+
+// Severity Colors - High
+$color-high: #f44336;
+$color-high-dark: #c62828;
+$color-high-light: #ffcdd2;
+$color-high-bg: #ffebee;
+
+// Neutral Colors
+$color-white: #ffffff;
+$color-black: #333333;
+$color-gray-100: #fafafa;
+$color-gray-200: #f5f5f5;
+$color-gray-300: #e0e0e0;
+$color-gray-400: #dddddd;
+$color-gray-500: #999999;
+$color-gray-600: #666666;
+$color-gray-700: #555555;
+$color-gray-800: #444444;
+
+// Text Colors
+$text-primary: #333333;
+$text-secondary: #666666;
+$text-muted: #999999;
+
+// Severity Text Colors
+$text-normal: #2e7d32;
+$text-elevated: #ef6c00;
+$text-high: #c62828;
+
+// Utility Colors
+$color-reset: #757575;
+$color-reset-dark: #616161;
+
+// Gradients
+$gradient-normal: linear-gradient(90deg, $color-normal, #8bc34a);
+$gradient-elevated: linear-gradient(90deg, $color-elevated, #ffc107);
+$gradient-high: linear-gradient(90deg, $color-high, #ff5722);
+
+// Border Radius
+$radius-sm: 4px;
+$radius-md: 8px;
+$radius-lg: 12px;
+
+// Spacing
+$space-xs: 0.25rem;
+$space-sm: 0.5rem;
+$space-md: 1rem;
+$space-lg: 1.5rem;
+$space-xl: 2rem;
+
+// Shadows
+$shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.1);
+$shadow-md: 0 2px 8px rgba(0, 0, 0, 0.15);

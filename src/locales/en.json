@@ -1,0 +1,49 @@
+{
+    "app": {
+        "title": "Symptom Checklist-90",
+        "viewAnalysis": "View Analysis",
+        "startOver": "Start Over"
+    },
+    "progress": {
+        "answered": "Answered: {answered} / {total}"
+    },
+    "analysis": {
+        "title": "Analysis Results",
+        "warning": "This tool is for informational purposes only and does not constitute a medical diagnosis. If you are experiencing distress, suicidal thoughts, or feel anything is wrong, please seek immediate medical attention or contact emergency services.",
+        "gsi": "General Severity Index (GSI)",
+        "interpretation": {
+            "normal": "Your scores are within the normal range. Continue maintaining your mental health practices.",
+            "elevated": "Your scores show mild to moderate symptoms. Monitor your well-being and consider reaching out if symptoms persist or worsen.",
+            "high": "Your scores indicate significant distress. Consider consulting a mental health professional for further evaluation and support."
+        },
+        "legend": {
+            "title": "Score Interpretation",
+            "normal": "0-0.99: Normal",
+            "elevated": "1-1.99: Elevated",
+            "high": "2+: High"
+        },
+        "scoreDetails": {
+            "answered": "{answered} / {total} answered",
+            "sum": "Sum: {sum}"
+        }
+    },
+    "dimensions": {
+        "somatization": "Somatization",
+        "obsessive_compulsive": "Obsessive-Compulsive",
+        "interpersonal_sensitivity": "Interpersonal Sensitivity",
+        "depression": "Depression",
+        "anxiety": "Anxiety",
+        "hostility": "Hostility",
+        "phobic_anxiety": "Phobic Anxiety",
+        "paranoid_ideation": "Paranoid Ideation",
+        "psychoticism": "Psychoticism",
+        "additional_items": "Additional Items"
+    },
+    "scale": {
+        "notAtAll": "Not at all",
+        "aLittleBit": "A little bit",
+        "moderately": "Moderately",
+        "quiteABit": "Quite a bit",
+        "extremely": "Extremely"
+    }
+}

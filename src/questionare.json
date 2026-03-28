@@ -1,0 +1,525 @@
+{
+    "metadata": {
+        "name": "SCL-90",
+        "full_name": "Symptom Checklist-90",
+        "items": 90,
+        "scale": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "scale_labels": [
+            "Not at all",
+            "A little bit",
+            "Moderately",
+            "Quite a bit",
+            "Extremely"
+        ]
+    },
+    "items": [
+        {
+            "id": 1,
+            "text": "Headaches"
+        },
+        {
+            "id": 2,
+            "text": "Nervousness or shakiness inside"
+        },
+        {
+            "id": 3,
+            "text": "Unwanted thoughts, words, or ideas that won't leave your mind"
+        },
+        {
+            "id": 4,
+            "text": "Faintness or dizziness"
+        },
+        {
+            "id": 5,
+            "text": "Loss of sexual interest or pleasure"
+        },
+        {
+            "id": 6,
+            "text": "Feeling critical of others"
+        },
+        {
+            "id": 7,
+            "text": "The idea that someone else can control your thoughts"
+        },
+        {
+            "id": 8,
+            "text": "Feeling others are to blame for most of your troubles"
+        },
+        {
+            "id": 9,
+            "text": "Trouble remembering things"
+        },
+        {
+            "id": 10,
+            "text": "Worried about sloppiness or carelessness"
+        },
+        {
+            "id": 11,
+            "text": "Feeling easily annoyed or irritated"
+        },
+        {
+            "id": 12,
+            "text": "Pains in heart or chest"
+        },
+        {
+            "id": 13,
+            "text": "Feeling afraid in open spaces or on the streets"
+        },
+        {
+            "id": 14,
+            "text": "Feeling low in energy or slowed down"
+        },
+        {
+            "id": 15,
+            "text": "Thoughts of ending your life"
+        },
+        {
+            "id": 16,
+            "text": "Hearing voices that other people do not hear"
+        },
+        {
+            "id": 17,
+            "text": "Trembling"
+        },
+        {
+            "id": 18,
+            "text": "Feeling that most people cannot be trusted"
+        },
+        {
+            "id": 19,
+            "text": "Poor appetite"
+        },
+        {
+            "id": 20,
+            "text": "Crying easily"
+        },
+        {
+            "id": 21,
+            "text": "Feeling shy or uneasy with the opposite sex"
+        },
+        {
+            "id": 22,
+            "text": "Feeling of being trapped or caught"
+        },
+        {
+            "id": 23,
+            "text": "Suddenly scared for no reason"
+        },
+        {
+            "id": 24,
+            "text": "Temper outbursts that you could not control"
+        },
+        {
+            "id": 25,
+            "text": "Feeling afraid to go out of your house alone"
+        },
+        {
+            "id": 26,
+            "text": "Blaming yourself for things"
+        },
+        {
+            "id": 27,
+            "text": "Pains in lower back"
+        },
+        {
+            "id": 28,
+            "text": "Feeling blocked in getting things done"
+        },
+        {
+            "id": 29,
+            "text": "Feeling lonely"
+        },
+        {
+            "id": 30,
+            "text": "Feeling blue"
+        },
+        {
+            "id": 31,
+            "text": "Worrying too much about things"
+        },
+        {
+            "id": 32,
+            "text": "Feeling no interest in things"
+        },
+        {
+            "id": 33,
+            "text": "Feeling fearful"
+        },
+        {
+            "id": 34,
+            "text": "Your feelings being easily hurt"
+        },
+        {
+            "id": 35,
+            "text": "Other people being aware of your private thoughts"
+        },
+        {
+            "id": 36,
+            "text": "Feeling others do not understand you or are unsympathetic"
+        },
+        {
+            "id": 37,
+            "text": "Feeling that people are unfriendly or dislike you"
+        },
+        {
+            "id": 38,
+            "text": "Having to do things very slowly to insure correctness"
+        },
+        {
+            "id": 39,
+            "text": "Heart pounding or racing"
+        },
+        {
+            "id": 40,
+            "text": "Nausea or upset stomach"
+        },
+        {
+            "id": 41,
+            "text": "Feeling inferior to others"
+        },
+        {
+            "id": 42,
+            "text": "Soreness of your muscles"
+        },
+        {
+            "id": 43,
+            "text": "Feeling that you are watched or talked about by others"
+        },
+        {
+            "id": 44,
+            "text": "Trouble falling asleep"
+        },
+        {
+            "id": 45,
+            "text": "Having to check and double-check what you do"
+        },
+        {
+            "id": 46,
+            "text": "Difficulty making decisions"
+        },
+        {
+            "id": 47,
+            "text": "Feeling afraid to travel on buses, subways, trains"
+        },
+        {
+            "id": 48,
+            "text": "Trouble getting your breath"
+        },
+        {
+            "id": 49,
+            "text": "Hot or cold spells"
+        },
+        {
+            "id": 50,
+            "text": "Having to avoid certain things, places, or activities because they frighten you"
+        },
+        {
+            "id": 51,
+            "text": "Your mind going blank"
+        },
+        {
+            "id": 52,
+            "text": "Numbness or tingling in parts of your body"
+        },
+        {
+            "id": 53,
+            "text": "A lump in your throat"
+        },
+        {
+            "id": 54,
+            "text": "Feeling hopeless about the future"
+        },
+        {
+            "id": 55,
+            "text": "Trouble concentrating"
+        },
+        {
+            "id": 56,
+            "text": "Feeling weak in parts of your body"
+        },
+        {
+            "id": 57,
+            "text": "Feeling tense or keyed up"
+        },
+        {
+            "id": 58,
+            "text": "Heavy feelings in your arms or legs"
+        },
+        {
+            "id": 59,
+            "text": "Thoughts of death or dying"
+        },
+        {
+            "id": 60,
+            "text": "Overeating"
+        },
+        {
+            "id": 61,
+            "text": "Feeling uneasy when people are watching or talking about you"
+        },
+        {
+            "id": 62,
+            "text": "Having thoughts that are not your own"
+        },
+        {
+            "id": 63,
+            "text": "Having urges to beat, injure, or harm someone"
+        },
+        {
+            "id": 64,
+            "text": "Awakening in the early morning"
+        },
+        {
+            "id": 65,
+            "text": "Having to repeat the same actions such as touching, counting, washing"
+        },
+        {
+            "id": 66,
+            "text": "Sleep that is restless or disturbed"
+        },
+        {
+            "id": 67,
+            "text": "Having urges to break or smash things"
+        },
+        {
+            "id": 68,
+            "text": "Having ideas or beliefs that others do not share"
+        },
+        {
+            "id": 69,
+            "text": "Feeling very self-conscious with others"
+        },
+        {
+            "id": 70,
+            "text": "Feeling uneasy in crowds, such as shopping or at a movie"
+        },
+        {
+            "id": 71,
+            "text": "Feeling everything is an effort"
+        },
+        {
+            "id": 72,
+            "text": "Spells of terror or panic"
+        },
+        {
+            "id": 73,
+            "text": "Feeling uncomfortable about eating or drinking in public"
+        },
+        {
+            "id": 74,
+            "text": "Getting into frequent arguments"
+        },
+        {
+            "id": 75,
+            "text": "Feeling nervous when you are left alone"
+        },
+        {
+            "id": 76,
+            "text": "Others not giving you proper credit for your achievements"
+        },
+        {
+            "id": 77,
+            "text": "Feeling lonely even when you are with people"
+        },
+        {
+            "id": 78,
+            "text": "Feeling so restless you couldn't sit still"
+        },
+        {
+            "id": 79,
+            "text": "Feelings of worthlessness"
+        },
+        {
+            "id": 80,
+            "text": "Feeling that familiar things are strange or unreal"
+        },
+        {
+            "id": 81,
+            "text": "Shouting or throwing things"
+        },
+        {
+            "id": 82,
+            "text": "Feeling afraid you will faint in public"
+        },
+        {
+            "id": 83,
+            "text": "Feeling that people will take advantage of you if you let them"
+        },
+        {
+            "id": 84,
+            "text": "Having thoughts about sex that bother you a lot"
+        },
+        {
+            "id": 85,
+            "text": "The idea that you should be punished for your sins"
+        },
+        {
+            "id": 86,
+            "text": "Feeling pushed to get things done"
+        },
+        {
+            "id": 87,
+            "text": "The idea that something serious is wrong with your body"
+        },
+        {
+            "id": 88,
+            "text": "Never feeling close to another person"
+        },
+        {
+            "id": 89,
+            "text": "Feelings of guilt"
+        },
+        {
+            "id": 90,
+            "text": "The idea that something is wrong with your mind"
+        }
+    ],
+    "dimensions": [
+        {
+            "key": "somatization",
+            "items": [
+                1,
+                4,
+                12,
+                27,
+                40,
+                42,
+                48,
+                49,
+                52,
+                53,
+                56,
+                58
+            ]
+        },
+        {
+            "key": "obsessive_compulsive",
+            "items": [
+                3,
+                9,
+                10,
+                28,
+                38,
+                45,
+                46,
+                51,
+                55,
+                65
+            ]
+        },
+        {
+            "key": "interpersonal_sensitivity",
+            "items": [
+                6,
+                21,
+                34,
+                36,
+                37,
+                41,
+                61,
+                69,
+                73
+            ]
+        },
+        {
+            "key": "depression",
+            "items": [
+                5,
+                14,
+                15,
+                20,
+                22,
+                26,
+                29,
+                30,
+                31,
+                32,
+                54,
+                71,
+                79
+            ]
+        },
+        {
+            "key": "anxiety",
+            "items": [
+                2,
+                17,
+                23,
+                33,
+                39,
+                57,
+                72,
+                78,
+                80,
+                86
+            ]
+        },
+        {
+            "key": "hostility",
+            "items": [
+                11,
+                24,
+                63,
+                67,
+                74,
+                81
+            ]
+        },
+        {
+            "key": "phobic_anxiety",
+            "items": [
+                13,
+                25,
+                47,
+                50,
+                70,
+                75,
+                82
+            ]
+        },
+        {
+            "key": "paranoid_ideation",
+            "items": [
+                8,
+                18,
+                43,
+                68,
+                76,
+                83
+            ]
+        },
+        {
+            "key": "psychoticism",
+            "items": [
+                7,
+                16,
+                35,
+                62,
+                64,
+                77,
+                84,
+                85,
+                87,
+                88,
+                90
+            ]
+        },
+        {
+            "key": "additional_items",
+            "items": [
+                19,
+                44,
+                59,
+                60,
+                64,
+                89
+            ]
+        }
+    ]
+}

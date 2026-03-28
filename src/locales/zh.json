@@ -1,0 +1,49 @@
+{
+    "app": {
+        "title": "症状自评量表-90",
+        "viewAnalysis": "查看分析结果",
+        "startOver": "重新开始"
+    },
+    "progress": {
+        "answered": "已回答: {answered} / {total}"
+    },
+    "analysis": {
+        "title": "分析结果",
+        "warning": "本工具仅供信息参考，不构成医学诊断。如您感到痛苦、有自杀念头或感到任何不适，请立即寻求医疗救助或联系急救服务。",
+        "gsi": "总症状指数 (GSI)",
+        "interpretation": {
+            "normal": "您的评分在正常范围内。请继续保持良好的心理健康习惯。",
+            "elevated": "您的评分显示轻度至中度症状。请关注您的健康状况，如果症状持续或恶化，请考虑寻求帮助。",
+            "high": "您的评分显示明显的困扰。建议咨询心理健康专业人士进行进一步评估和支持。"
+        },
+        "legend": {
+            "title": "评分解读",
+            "normal": "0-0.99: 正常",
+            "elevated": "1-1.99: 偏高",
+            "high": "2+: 高"
+        },
+        "scoreDetails": {
+            "answered": "已回答 {answered} / {total} 题",
+            "sum": "总分: {sum}"
+        }
+    },
+    "dimensions": {
+        "somatization": "躯体化",
+        "obsessive_compulsive": "强迫症状",
+        "interpersonal_sensitivity": "人际敏感",
+        "depression": "抑郁",
+        "anxiety": "焦虑",
+        "hostility": "敌对",
+        "phobic_anxiety": "恐怖",
+        "paranoid_ideation": "偏执",
+        "psychoticism": "精神病性",
+        "additional_items": "其他"
+    },
+    "scale": {
+        "notAtAll": "没有",
+        "aLittleBit": "很轻",
+        "moderately": "中等",
+        "quiteABit": "偏重",
+        "extremely": "严重"
+    }
+}
